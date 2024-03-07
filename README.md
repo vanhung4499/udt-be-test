@@ -24,6 +24,8 @@ The solution is presented in [section3.md](docs/section3/section-3.md).
 
 ### Section IV
 
-
+The solution is presented in [section4.md](docs/section4/section-4.md).
 
 ### Section V
+
+The solution is presented in [section5.md](docs/section5/section-5.md).

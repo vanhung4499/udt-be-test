@@ -27,7 +27,7 @@ sequenceDiagram
     Client->>Client: Save token to local storage 
 ```
 
-![jwt-authentication](docs/section3/jwt-authentication.png)
+![jwt-authentication](./docs/section3/jwt-authentication.png)
 
 ## Authorization
 
